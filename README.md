@@ -1,4 +1,9 @@
 # HSR-Scorer
+
+Welcome!
+
+This is my first HTML section in a README.
+
 <p align="center">
-  <img src="https://cdn-www.bluestacks.com/bs-images/HonkaiStarRail_Article_RelicandPlanetaryOrnaments_EN5.jpg" alt="Project Screenshot" width="500"/>
+  <img src="./assets/demo.png" alt="Relic Scorer Screenshot" width="500">
 </p>
