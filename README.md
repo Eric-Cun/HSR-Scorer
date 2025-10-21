@@ -1,9 +1,4 @@
-# HSR-Scorer
+#🌟HSR Relic Scorer
+This is an application that can score the relics of players account and gives out a score depending on the character and what type of stats are most ideal
 
-Welcome!
-
-This is my first HTML section in a README.
-
-<p align="center">
-  <img src="./assets/demo.png" alt="Relic Scorer Screenshot" width="500">
-</p>
+##🔎 
