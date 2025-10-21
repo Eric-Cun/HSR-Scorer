@@ -1,4 +1,5 @@
 # 🌟HSR Relic Scorer
-This is an application that can score the relics of players account and gives out a score depending on the character and what type of stats are most ideal
+This is an application that looks at relics of a players character and gives them a score that are relevant to
+said character
 
-## 🔎 
+## 🔎Scoring
